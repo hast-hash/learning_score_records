@@ -12,7 +12,7 @@ The teacher can implement the autonomous learning through e-portfolio as below:<
 &nbsp;&nbsp;&nbsp;&nbsp;d) Students fill in the spreadsheet to show how many points they achieve during the month and submit their documnets.<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;e) The teacher makes sure and manage the progress of students' learning by the spreadsheets and its diagrams.<BR>
 <BR>
-The spreadsheet is as below. Students learn by themselves. They record their points monthly and submit the releavant documents.<BR>
-<IMG SRC="readme_img1.png"><BR>
-The spreadsheet includes 'Draw Diagram' button. When you push the button, a stacked bar chart as below comes up to show the whole total points and monthly points the student achieves. The student, or the teacher, can use the diagram to manage his/her learning. The word 'Total' means the total points, and 'This Month' means monthly points the student achieve--Check it before the following month begins. The color designates in which month the student learns. When the student finished seeing the diagram, s/he can delete the diagram by clicking the diagram itself, clicking the three dots on the right top corner and selecting the 'delete graph' on the pop-up window.   
+The spreadsheet is as below. Students learn by themselves. They record their points monthly and submit the releavant documents.<BR><BR>
+<IMG SRC="readme_img1.png"><BR><BR>
+The spreadsheet includes 'Draw Diagram' button. When you push the button, a stacked bar chart as below comes up to show the whole total points and monthly points the student achieves. The student, or the teacher, can use the diagram to manage his/her learning. The word 'Total' means the total points, and 'This Month' means monthly points the student achieve--Check it before the following month begins. The color designates in which month the student learns. When the student finished seeing the diagram, s/he can delete the diagram by clicking the diagram itself, clicking the three dots on the right top corner and selecting the 'delete graph' on the pop-up window. <BR><BR>  
 <IMG SRC="readme_img2.png"><BR>
